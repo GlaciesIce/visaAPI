@@ -10,5 +10,11 @@
   ],
   "profile": {
     "name": "typicode"
-  }
+  },
+  "visas": [
+    {
+      "id" : "5c3fc1",
+      "name" : "andre"
+    }
+  ]
 }
